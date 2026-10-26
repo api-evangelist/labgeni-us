@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LabGenius is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by obvious-ventures) and added to the network as a stub for full-pipeline profiling.
-- https://labgeni.us
+LabGenius Therapeutics is pioneering a closed-loop platform that combines AI, robotic automation, and synthetic biology to accelerate the discovery of next-generation therapeutic antibodies for solid tumours, aiming to transform antibody discovery for cancer treatment and other diseases.
+
+**Areas:** Company · Biotechnology · AI · AntibodyDiscovery · Therapeutics · MachineLearning
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://labgeni.us)
+- [Terms of service](https://labgeniustx.com/terms-of-use/)
+- [Privacy policy](https://labgeniustx.com/privacy-policy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/labgeni-us/](https://apis.io/providers/labgeni-us/).
